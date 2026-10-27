@@ -1,0 +1,14 @@
+AULAIA · EQUIPO 5
+Regina Cabrera · Santiago Bobadilla · Santiago Escalante · Valentina Villegas
+
+1. Descomprime el ZIP completo y abre index.html.
+2. Mantén juntas las carpetas css, js, imagenes y vendor. Bootstrap está incluido localmente.
+3. Para publicar en GitHub Pages, sube el CONTENIDO de esta carpeta a un repositorio. index.html debe quedar en la raíz.
+4. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Comprueba el enlace público y conserva los enlaces al sitio y al repositorio.
+
+Prueba el menú de las cinco páginas, el carrusel, el caso del modal, los acordeones y el formulario de plan de estudio. El formulario no transmite ni guarda datos.
+Incluye capturas reales del código, vistas de computadora/tableta/celular, componentes y publicación. La web todavía no está publicada.
+
+La actividad permite hasta 20% de apoyo de IA. Este material requiere revisión, comprensión, adaptación y declaración del apoyo recibido; no se afirma que por sí solo cumpla ese límite.
+Nomenclatura de entrega para Regina: DEPWP2_Cabrera_Regina.zip. Cada integrante adapta el nombre del ZIP a su apellido y nombre.

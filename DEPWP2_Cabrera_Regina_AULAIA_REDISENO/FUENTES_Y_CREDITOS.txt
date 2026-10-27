@@ -1,0 +1,16 @@
+AULAIA · EQUIPO 5
+Regina Cabrera · Santiago Bobadilla · Santiago Escalante · Valentina Villegas
+
+Referencias consultadas el 26 de octubre de 2026
+UNESCO · IA y educación
+https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+Khan Academy · Khanmigo
+https://khanmigo.ai/
+Google · Cuadernos con fuentes
+https://support.google.com/gemininotebook/answer/16206563
+Bootstrap 5.3.8, licencia MIT: vendor/bootstrap/LICENSE.
+https://getbootstrap.com/docs/5.3/
+
+Las tres imágenes PNG fueron proporcionadas por el usuario. No se atribuye su autoría al equipo. Conservar o completar autor, origen y licencia cuando estén disponibles.
+El icono SVG se preparó para esta web. Los ejemplos educativos son ficticios.
+El código y la redacción se prepararon con apoyo de IA; el equipo debe revisar, adaptar y declarar el uso según las reglas de la actividad.
